@@ -1,0 +1,24 @@
+{
+    "HitTheBall": {
+        "checkpoints": [
+            {
+                "steps": 30361,
+                "file_path": "results\\RandomTest5\\HitTheBall\\HitTheBall-30361.onnx",
+                "reward": -0.36923076923076925,
+                "creation_time": 1616128370.7490127
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 30361,
+            "file_path": "results\\RandomTest5\\HitTheBall.onnx",
+            "reward": -0.36923076923076925,
+            "creation_time": 1616128370.7490127
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.1",
+        "tensorflow_version": -1
+    }
+}
